@@ -7,7 +7,7 @@ F = 0.5       # mutation factor
 CR = 0.1      # probability of allele mutation
 G = 10000     # number of generations/iterations
 eps = 0.01    # tolerated error
-bounds = ((0, 1), (5, 10), (0.1, 0.2), (0, 100), (-5, 5))    # upper and lower bounds
+bounds = ((0, 1), (5, 10), (0.1, 0.2), (0, 100), (-5, 5))    # upper and lower bounds for each sample parameter
 
 ######## Methods ############
 
